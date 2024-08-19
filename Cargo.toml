@@ -2,5 +2,9 @@
 name = "dynamic_tcp_stream"
 version = "0.1.0"
 edition = "2021"
+license = "MIT"
+description = "Trait that enables TcpStream to read and write any length messages easily and efficiently."
+repository = "https://github.com/LWEdslev/dynamic_tcp_stream"
+
 
 [dependencies]
