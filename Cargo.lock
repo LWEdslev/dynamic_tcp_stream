@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "dynamic_tcp_stream"
-version = "0.1.0"
+name = "dynamic-tcp-stream"
+version = "0.1.1"
